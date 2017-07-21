@@ -54,13 +54,17 @@ Don't forget to Save your schedule after changing it.
 
 #### Make A Yearly Plan
 I don't know about you, but I prefer to use Excel to plan out my entire 4-year long class schedule. Do this. This will allow you to gain a better understanding of what you need and when you need it by. Check off the following quarters when you've completed them on your own plan.
- [ ] Fall 2017
- [ ] Winter 2017
- [ ] Spring 2018
- [ ] Summer 2018
- [ ] Fall 2018
- [ ] Winter 2018
- [ ] Spring 2019
+
+ - [ ] Fall 2017
+ - [ ] Winter 2017
+ - [ ] Spring 2018
+ - [ ] Summer 2018
+
+ - [ ] Fall 2018
+ - [ ] Winter 2018
+ - [ ] Spring 2019
+ - [ ] Summer 2019
+
  > See DegreeWorks and the below resources for checking which classes you will need to take throughout your academic career at UCI.
 
 ## Requirements for your major
